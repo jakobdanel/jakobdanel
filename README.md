@@ -25,5 +25,5 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 ### :fire: My Stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobdanel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobdanel&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobdanel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
