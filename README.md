@@ -1,12 +1,12 @@
 ![Header](/header.png "My Header")
 
-## 👨‍💻: About me
+# 👨‍💻: About me
 
 For those who have strayed here and don't know me yet, here are a few words about me: I'm Jakob and I'm currently studying geoinformatics at the University of Münster in my bachelor's degree. Here I am especially interested in remote sensing, spatial prediction and location privacy. I also work as a student assistant at IVV5 and help to establish and maintain a functioning IT infrastructure for the employees of the university. Privately, I am involved in machine learning, as well as image processing. 
 
 ---
 
-### 🛠️: Languages and Tools:
+# 🛠️: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 ---
 
-### 📊 My Stats :
+# 📊 My Stats :
 <div style="display: flex;">
   <div style="flex-basis: 50%; margin-right: 20px;">
     <a href="https://git.io/streak-stats">
@@ -41,7 +41,7 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 ---
 
-### 🔥 Under development:
+# 🔥 Under development:
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakobdanel&repo=file-managment-ts&show_owner=true)](https://github.com/jakobdanel/file-managment-ts)
 
@@ -49,7 +49,7 @@ file-managment-ts is a project where I'm trying to develop an internal API to ma
 
 ---
 
-### 🧊 Finished projects :
+# 🧊 Finished projects :
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=geo-tech-project&repo=frontend&show_owner=true)](https://github.com/geo-tech-project/frontend)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=geo-tech-project&repo=backend&show_owner=true)](https://github.com/geo-tech-project/backend)
 
@@ -62,6 +62,6 @@ city-lab is a web application that we developed in a group as part of a study pr
 
 ---
 
-### ✏️ Contact :
+# ✏️ Contact :
 
 You can reach me via a Mail to [jakob.danel@uni-muenster.de](mailto:jdanel@uni-muenster.de)
