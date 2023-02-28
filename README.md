@@ -56,6 +56,9 @@ file-managment-ts is a project where I'm trying to develop an internal API to ma
 In this project, I built a web application with four other fellow students that allows spatial predictions to be made using models generated with machine learning. The service allows the training of models based on own training data as well as the computation of predictions based on models and spatially corresponding automatically provided satellite images. The frontend was developed with Angular in Typescript, the backend with a Node.js express server and R scripts for the predictions.
 
 ---
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakobdanel&repo=city-lab&show_owner=true)](https://github.com/jakobdanel/city-lab)
+city-lab is a web application that we developed in a group as part of a study project, the goal was to provide users of urban gardening a tool with which such a garden can be easily managed. In the tool different objects can be created by users, which can be viewed by all users. My main task was the administration of the database structures and the access to them via the javascript framework mongoose.
+---
 
 ### ✏️ Contact :
 
