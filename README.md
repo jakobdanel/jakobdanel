@@ -27,8 +27,18 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobdanel&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobdanel&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <div style="flex-basis: 100%; margin-bottom: 20px;">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=jakobdanel&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%; height: auto;">
+    </a>
+  </div>
+  <div style="flex-basis: 100%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobdanel&layout=compact&theme=vision-friendly-dark&count_private=true" alt="Top Langs" style="width: 100%; height: auto;">
+    </a>
+  </div>
+</div>
 
 ### 🧊 Finished projects :
 
