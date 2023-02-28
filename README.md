@@ -39,14 +39,23 @@ For those who have strayed here and don't know me yet, here are a few words abou
   </div>
 </div>
 
-
-
-### 🧊 Finished projects :
-
+---
 
 ### 🔥 Under development:
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakobdanel&repo=file-managment-ts&show_owner=true)](https://github.com/jakobdanel/file-managment-ts)
+
+file-managment-ts is a project where I'm trying to develop an internal API to manipulate the filesystem under Linux using Typescript. Currently the interface is based on the "fs" library of Node.js, but the goal is to replace the library with direct Linux system calls and make the project dependency-free.
+
+---
+
+### 🧊 Finished projects :
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=geo-tech-project&repo=frontend&show_owner=true)](https://github.com/geo-tech-project/frontend)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=geo-tech-project&repo=backend&show_owner=true)](https://github.com/geo-tech-project/backend)
+
+In this project, I built a web application with four other fellow students that allows spatial predictions to be made using models generated with machine learning. The service allows the training of models based on own training data as well as the computation of predictions based on models and spatially corresponding automatically provided satellite images. The frontend was developed with Angular in Typescript, the backend with a Node.js express server and R scripts for the predictions.
+
+---
 
 ### ✏️ Contact :
 
