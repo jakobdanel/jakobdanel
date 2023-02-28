@@ -34,4 +34,4 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 ### ✏️ Contact :
 
-You can reach me via a Mail to mailto:jdanel@uni-muenster.de
+You can reach me via a Mail to [jakob.danel@uni-muenster.de](mailto:jdanel@uni-muenster.de)
