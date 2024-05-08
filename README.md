@@ -66,6 +66,7 @@ This project introduces an method employing machine learning to monitor insect p
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=freds-dev&repo=GIS&show_owner=true)](https://github.com/freds-dev/GIS/)
 <br>
 "Playground Hub" is a web application designed to address the social and practical challenges surrounding public playgrounds. With the aim of enhancing the experiences of families and communities, the project focuses on providing a comprehensive platform for discovering, reporting, and managing issues related to playgrounds. For parents and caregivers, the application offers intuitive tools to find suitable playgrounds based on specific criteria and report any concerns they encounter, ensuring the safety and cleanliness of these spaces for children. On the administrative side, city officials benefit from streamlined issue management and insightful analytics, enabling prompt responses to community needs and the efficient maintenance of public spaces. The project emphasizes user-centric design principles, interactive map functionalities, and efficient user interactions to create a seamless experience for both end-users and administrators. Through "Playground Hub," the project seeks to foster community engagement, improve the quality of public playgrounds, and promote the well-being of families and children in urban environments.
+
 ---
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakobdanel&repo=lidar-forest-analysis&show_owner=true)](https://github.com/jakobdanel/lidar-forest-analysis)
