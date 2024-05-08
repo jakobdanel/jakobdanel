@@ -59,6 +59,8 @@ city-lab is a web application that we developed in a group as part of a study pr
 
 ---
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=freds-dev&repo=ML4IM&show_owner=true)](https://github.com/freds-dev/ML4IM/)
+<br>
+This project introduces an method employing machine learning to monitor insect populations within complex outdoor settings, underlining the pressing need to address insect decline. The approach encompasses manual annotation, preprocessing of RGB and DVS videos, dataset curation, cross-validation procedures, training detection models using YOLO, and evaluating results based on performance metrics such as mAP@0.5 and mAP@0.5-0.95. Statistical analyses, including paired t-Tests, are employed to assess the efficacy of diverse preprocessing techniques in bolstering detection performance. Through systematic experimentation, the study scrutinizes the impact of various preprocessing methods on insect detection across different input streams. Notably, the integration of temporal filtering and background subtraction on the DVS stream significantly enhances insect detection compared to alternative configurations, underscoring the pivotal role of preprocessing techniques in augmenting detection metrics.
 
 ---
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=freds-dev&repo=GIS&show_owner=true)](https://github.com/freds-dev/GIS/)
