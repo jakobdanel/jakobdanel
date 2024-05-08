@@ -70,6 +70,8 @@ This project introduces an method employing machine learning to monitor insect p
 ---
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakobdanel&repo=lidar-forest-analysis&show_owner=true)](https://github.com/jakobdanel/lidar-forest-analysis)
+<br>
+This study investigating into the critical role of forests in maintaining global environmental stability, with a specific focus on understanding forest ecosystems and addressing threats to diverse tree species. It proposes the adoption of LiDAR technology to enhance forest monitoring and gain species-specific insights in North Rhine-Westphalia (NRW). The research employs a systematic approach to data acquisition, preprocessing, and analysis, emphasizing the efficient handling of LiDAR data to distinguish tree species in monocultural forests in NRW. The findings highlight the effectiveness of LiDAR data in differentiating tree species, with significant variations observed in derived metrics among species. While recognizing the utility of the Random Forest algorithm, the study acknowledges performance fluctuations based on parameter combinations, stressing the importance of a multifaceted approach for accurate species classification, particularly when considering patch-level information.
 
 ---
 
