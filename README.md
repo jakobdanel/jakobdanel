@@ -55,7 +55,7 @@ In this project, I built a web application with four other fellow students that 
 ---
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakobdanel&repo=city-lab&show_owner=true)](https://github.com/jakobdanel/city-lab)
 <br>
-city-lab is a web application that we developed in a group as part of a study project, the goal was to provide users of urban gardening a tool with which such a garden can be easily managed. In the tool different objects can be created by users, which can be viewed by all users. My main task was the administration of the database structures and the access to them via the javascript framework mongoose.
+> city-lab is a web application that we developed in a group as part of a study project, the goal was to provide users of urban gardening a tool with which such a garden can be easily managed. In the tool different objects can be created by users, which can be viewed by all users. My main task was the administration of the database structures and the access to them via the javascript framework mongoose.
 
 ---
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=freds-dev&repo=ML4IM&show_owner=true)](https://github.com/freds-dev/ML4IM/)
