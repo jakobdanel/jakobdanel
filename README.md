@@ -1,5 +1,7 @@
 ![Header](/header.png "My Header")
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jakobdanel.jakobdanel&left_color=green&right_color=red)
+
 # 👨‍💻: About me
 
 For those who have strayed here and don't know me yet, here are a few words about me: I'm Jakob and I'm currently studying Geoinformatics and Spatial Data Science at the University of Münster in my master's degree. Here I am especially interested in remote sensing, object detection and location privacy. I also work as a student assistant at IVV5 and help to establish and maintain a functioning IT infrastructure for the employees of the university. Privately, I am involved in machine learning, as well as image processing. 
