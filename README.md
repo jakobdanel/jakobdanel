@@ -26,7 +26,7 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 # ⚡ Recent activities
 <!--START_SECTION:activity--> 
-1. 🎉 Merged PR [#2](https://github.com/freds-dev/detect-wise/pull/2) in [freds-dev/detect-wise](https://github.com/freds-dev/detect-wise)
+1. 🎉 Merged PR [#5](https://github.com/freds-dev/detect-wise/pull/5) in [freds-dev/detect-wise](https://github.com/freds-dev/detect-wise)
 <!--END_SECTION:activity-->
 
 # 📊 My Stats :
