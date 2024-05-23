@@ -26,6 +26,8 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 # ⚡ Recent activities
 <!--START_SECTION:activity--> 
+1. 💪 Opened PR [#1](https://github.com/freds-dev/detect-wise/pull/1) in [freds-dev/detect-wise](https://github.com/freds-dev/detect-wise)
+<!--END_SECTION:activity-->
 
 # 📊 My Stats :
 <div style="display: flex;">
