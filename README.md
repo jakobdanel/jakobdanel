@@ -26,7 +26,7 @@ For those who have strayed here and don't know me yet, here are a few words abou
 
 # ⚡ Recent activities
 <!--START_SECTION:activity--> 
-1. 🎉 Merged PR [#9](https://github.com/freds-dev/detect-wise/pull/9) in [freds-dev/detect-wise](https://github.com/freds-dev/detect-wise)
+1. ❗ Opened issue [#794](https://github.com/r-lidar/lidR/issues/794) in [r-lidar/lidR](https://github.com/r-lidar/lidR)
 <!--END_SECTION:activity-->
 
 # 📊 My Stats :
